@@ -85,10 +85,10 @@
 
         gaming_layer {
             bindings = <
-&none  &none  &none  &none  &none  &none        &none          &none    &none      &none       &none  &none
-&none  &none  &kp S  &kp D  &kp F  &none        &none          &kp J    &kp K      &kp L       &none  &none
-&none  &none  &none  &none  &none  &none        &none          &kp M    &kp COMMA  &kp PERIOD  &none  &tog 3
-                     &none  &none  &kp SPACE    &kp SEMICOLON  &kp SQT  &none
+&lt 2 SQT  &none  &none  &none  &none  &none        &none  &none  &none  &none  &none  &none
+&none      &none  &kp S  &kp D  &kp F  &none        &none  &kp J  &kp K  &kp L  &kp P  &none
+&none      &none  &none  &none  &none  &none        &none  &kp M  &kp Y  &kp U  &kp H  &none
+                         &none  &none  &kp SPACE    &kp I  &kp O  &none
             >;
         };
     };
